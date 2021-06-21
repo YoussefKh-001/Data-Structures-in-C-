@@ -115,7 +115,7 @@ T* ArrayList<T>::rend()
 }
 
 template<class T>
-T ArrayList<T>::operator[](int index)
+T& ArrayList<T>::operator[](int index)
 {
 	assert(index < count && index >= 0);
 	return arr[index];

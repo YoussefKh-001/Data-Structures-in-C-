@@ -21,7 +21,7 @@ public:
 	T* rbegin();
 	T* end();
 	T* rend();
-	T operator [](int index);
+	T& operator [](int index);
 private:
 	bool isFull();
 	void expand();
