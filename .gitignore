@@ -424,3 +424,4 @@ FodyWeavers.xsd
 ArrayList/ArrayList/Source.cpp
 Stack/Stack/Source.cpp
 Linked List/Linked List/Source.cpp
+Queue/Queue/Source.cpp
