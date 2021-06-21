@@ -423,3 +423,4 @@ FodyWeavers.xsd
 *.sln.iml
 ArrayList/ArrayList/Source.cpp
 Stack/Stack/Source.cpp
+Linked List/Linked List/Source.cpp
